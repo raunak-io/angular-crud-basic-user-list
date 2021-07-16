@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Rahul",
+    "lastName": "jindal",
+    "userName": "rahul@jindal",
+    "age": 32,
+    "gender": "male"
+  },
+  {
+    "firstName": "lata",
+    "lastName": "seth",
+    "userName": "lata@seth",
+    "age": 23,
+    "gender": "female"
+  },
+  {
+    "firstName": "manoj",
+    "lastName": "bajpai",
+    "userName": "manoj@bajpai",
+    "age": 45,
+    "gender": "male"
+  },
+  {
+    "firstName": "neha",
+    "lastName": "kakkar",
+    "userName": "neha@kakkar",
+    "age": 29,
+    "gender": "female"
+  },
+  {
+    "firstName": "maya",
+    "lastName": "khan",
+    "userName": "maya@khan",
+    "age": 22,
+    "gender": "female"
+  },
+  {
+    "firstName": "raju",
+    "lastName": "bhaiyya",
+    "userName": "raju@bhaiyya",
+    "age": 28,
+    "gender": "male"
+  }
+]
